@@ -12,9 +12,9 @@ ref = db.reference('Students')
 data = {
     "321654":
         {
-            "name": "Murtaza Hassan",
-            "major": "Robotics",
-            "starting_year": 2017,
+            "name": "Abdul Shobir",
+            "major": "Teknik Elektronika",
+            "starting_year": 2000,
             "total_attendance": 7,
             "standing": "G",
             "year": 4,
@@ -22,9 +22,9 @@ data = {
         },
     "852741":
         {
-            "name": "Emly Blunt",
-            "major": "Economics",
-            "starting_year": 2021,
+            "name": "Siti Mutamimah",
+            "major": "Akuntansi Keuangan Lembaga",
+            "starting_year": 2019,
             "total_attendance": 12,
             "standing": "B",
             "year": 1,
@@ -32,8 +32,8 @@ data = {
         },
     "963852":
         {
-            "name": "Elon Musk",
-            "major": "Physics",
+            "name": "Fami Husni",
+            "major": "Teknik Elektronika",
             "starting_year": 2020,
             "total_attendance": 7,
             "standing": "G",
